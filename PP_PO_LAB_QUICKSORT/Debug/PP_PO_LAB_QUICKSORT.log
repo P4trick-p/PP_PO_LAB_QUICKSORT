@@ -1,0 +1,4 @@
+﻿  PP_PO_LAB_QUICKSORT.cpp
+f:\#github\vs\pp_po_lab_quicksort\pp_po_lab_quicksort\pp_po_lab_quicksort.cpp(70): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\#github\vs\pp_po_lab_quicksort\pp_po_lab_quicksort\pp_po_lab_quicksort.cpp(146): warning C4101: 'x': unreferenced local variable
+  PP_PO_LAB_QUICKSORT.vcxproj -> F:\#GitHub\VS\PP_PO_LAB_QUICKSORT\Debug\PP_PO_LAB_QUICKSORT.exe
